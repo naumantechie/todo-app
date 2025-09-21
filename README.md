@@ -4,7 +4,7 @@ This is a basic application which uses [Free Api](https://freeapi.app/). This ap
 
 ## Install all the dependencies
 ```
-npm i #or yarn install or pnpm i
+npm i <!-- #or yarn install or pnpm i -->
 ```
 
 ## App domo:
