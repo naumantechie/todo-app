@@ -3,8 +3,8 @@
 This is a basic application which uses [Free Api](https://freeapi.app/). This application built with React, TypeScript, and Redux Toolkit for state management. Features real-time CRUD operations, optimistic updates, and a clean UI using Tailwind CSS with seamless API integration using axios.
 
 ## Install all the dependencies
-```
-npm i <!-- #or yarn install or pnpm i -->
+```bash
+npm i #or yarn install or pnpm i
 ```
 
 ## App domo:
